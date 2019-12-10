@@ -1,0 +1,17 @@
+<html>
+  <head>
+  <!-- link to main stylesheet -->
+  <link rel="stylesheet" type="text/css" href="css/main.css">
+
+  </head>
+  <body>
+     <center>
+     <font size = "10" color = "93FF28"> Welcome to Computer Science Club 2019-2020!  </font>
+     <br/>
+     <br/>
+     <font size = "6" color = "FCEBEB"> Coming Soon... </font>
+     </center> 
+  
+  </body>
+
+</html>
